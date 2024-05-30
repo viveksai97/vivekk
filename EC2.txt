@@ -1,0 +1,33 @@
+EC2: ELASTIC CLOUD COMPUTE 
+
+COMPUTE: You are requesting aws to provide you a compute intance( VIRTUAL SERVER) which is a combination of CPU,RAM & DISK.
+
+CLOUD: AWS
+
+ELASTIC: whenever AWS provides you a service that can be scaled up and scaled down that means this sevrice is elastic in nature where you can increase the resources or decrease the resources or use this resources in anyway.
+
+why EC2?
+
+A) ->You don’t require any hardware units
+
+->Easily scalable (up or down)
+
+->You only pay for what you use
+
+->You have complete control
+
+->Highly secure
+
+->You can access your assets from anywhere in the world.
+
+
+TYPES OF EC2 INSTANCES:
+
+1)GENERAL PURPOSE
+2)COMPUTE OPTIMIZED
+3)MEMORY OPTIMIZED
+4)STORAGE OPTIMIZED
+5)ACCELARATED COMPUTING INTANCES
+
+REGION and AVAILABILITY ZONES:
+REGION areas are separate GEOGRAPHIC areas.inside region you have multiple availability zones it is nothing but group data centers called as availability zones.
